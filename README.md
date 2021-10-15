@@ -12,6 +12,7 @@ A collection of concepts on various topics to make it easier on me to revisit th
 
 ### CSS
 
+- [Box Model](css/box-model.md)
 - [Flow Layout](css/flow-layout.md)
 
 ## About
