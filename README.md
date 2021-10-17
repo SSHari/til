@@ -7,6 +7,7 @@ A collection of concepts on various topics to make it easier on me to revisit th
 ### Categories
 
 * [CSS](#css)
+* [Vim](#vim)
 
 ---
 
@@ -14,6 +15,10 @@ A collection of concepts on various topics to make it easier on me to revisit th
 
 - [Box Model](css/box-model.md)
 - [Flow Layout](css/flow-layout.md)
+
+### Vim
+
+- [Combine multiple lines](vim/combine-multiple-lines.md)
 
 ## About
 
