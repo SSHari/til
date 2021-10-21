@@ -16,6 +16,7 @@ A collection of concepts on various topics to make it easier on me to revisit th
 - [Box Model](css/box-model.md)
 - [Flow Layout](css/flow-layout.md)
 - [Positioned Layout](css/positioned-layout.md)
+- [Stacking Contexts](css/stacking-contexts.md)
 
 ### Vim
 
