@@ -7,6 +7,7 @@ A collection of concepts on various topics to make it easier on me to revisit th
 ### Categories
 
 * [CSS](#css)
+* [HTML](#html)
 * [Vim](#vim)
 
 ---
@@ -20,6 +21,10 @@ A collection of concepts on various topics to make it easier on me to revisit th
 - [Overflow](css/overflow.md)
 - [Positioned Layout](css/positioned-layout.md)
 - [Stacking Contexts](css/stacking-contexts.md)
+
+### HTML
+
+- [Collapsible info with the details element](html/collapsible-info-with-the-details-element.md)
 
 ### Vim
 
