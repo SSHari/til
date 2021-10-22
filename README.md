@@ -8,6 +8,7 @@ A collection of concepts on various topics to make it easier on me to revisit th
 
 * [CSS](#css)
 * [HTML](#html)
+* [ripgrep](#ripgrep)
 * [Vim](#vim)
 
 ---
@@ -25,6 +26,10 @@ A collection of concepts on various topics to make it easier on me to revisit th
 ### HTML
 
 - [Collapsible info with the details element](html/collapsible-info-with-the-details-element.md)
+
+### ripgrep
+
+- [Only return filenames on search](ripgrep/only-return-filenames-on-search.md)
 
 ### Vim
 
