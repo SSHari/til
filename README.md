@@ -17,6 +17,7 @@ A collection of concepts on various topics to make it easier on me to revisit th
 
 - [Box Model](css/box-model.md)
 - [Clamp](css/clamp.md)
+- [Flex Layout](css/flex-layout.md)
 - [Flow Layout](css/flow-layout.md)
 - [Hidden Content](css/hidden-content.md)
 - [Offset](css/offset.md)
