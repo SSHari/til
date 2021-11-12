@@ -48,3 +48,7 @@ The `clamp` util is powerful because it can be used for other properties.
   font-size: clamp(12px, 1rem, 24px);
 }
 ```
+
+## Demos
+
+Check out these [clamp demos](https://thesshguy.com/demos/clamp/).
